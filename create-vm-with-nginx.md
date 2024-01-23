@@ -38,7 +38,7 @@ sudo apt-get install -y nginx
 echo "<html><body><h2>Welcome to Azure! My name is $(hostname).</h2></body></html>" | sudo tee -a /var/www/html/index.html
 ```
 
-Este lab foi retirado do Microsoft Learning. PAra mais informação consultar a secção dos créditos.
+Este lab foi retirado do Microsoft Learning. Para mais informação consultar a secção dos créditos.
 
 # Créditos
 https://learn.microsoft.com/en-us/training/modules/describe-azure-compute-networking-services/3-exercise-create-azure-virtual-machine
