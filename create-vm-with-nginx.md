@@ -1,4 +1,4 @@
-# Criar uma VM e embutir o NGINX
+# Criar uma VM e embutir o NGINX via az cli
 
 1. Criar a VM com Azure Cli:
 ```
